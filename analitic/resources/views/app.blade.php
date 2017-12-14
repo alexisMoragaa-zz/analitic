@@ -83,7 +83,7 @@
                   </div>
                 </div>
                 @endif
-              
+
         </div>
       </header>
     <!--header-->
@@ -123,7 +123,7 @@
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="{{url('load')}}">Load Product</a>
+                  <a class="nav-link" href="{{url('load/create')}}">Load Product</a>
                 </li>
 
               @endif
